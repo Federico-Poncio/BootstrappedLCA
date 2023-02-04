@@ -4,7 +4,6 @@ library(ggplot2)
 
 # Load dataset
 dataset <- read.csv("dataset_LCA.csv", row.names=1)
-# CAMBIAR DATASET POR OTRO DUMMY
 
 #####
 # Define useful stuff
